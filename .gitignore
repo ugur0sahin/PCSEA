@@ -1,0 +1,7 @@
+misc/.DS_Store
+.DS_Store
+scripts/.DS_Store
+*.html
+*.csv
+*.tsv
+scripts/phenotype_associations/skimage_props_feature_extraction/*.csv
